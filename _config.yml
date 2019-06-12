@@ -9,6 +9,7 @@
 title: Top
 description: Digital Book of World Records for High Performance Computing
 baseurl: "/top" # the subpath of your site, e.g. /blog
+permalink: /:year/:title/
 url: ""
 
 # Logo settings
