@@ -9,5 +9,7 @@
 		{% if page.title %}
 		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li>
 		{% endif %} {% endfor %}
+		<li><a href="{{ site.repo }}">GitHub</a></li>
+
 	</ul>
 </nav>
