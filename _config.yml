@@ -19,7 +19,7 @@ logo-image-url: assets/images/code-logo.svg
 # Social settings
 github_username: hpsee
 twitter_username: askcyberinfra
-repo: https://www.github.com/hpcee/top
+repo: https://www.github.com/hpsee/top
 
 # Build settings
 markdown: kramdown
