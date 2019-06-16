@@ -5,9 +5,9 @@
 		{% if page.path == "index.md" %}
 		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.md" }}">{{ page.title }}</a></li>
 		{% endif %}{% endfor %}
-		{% for page in site.pages %}{% if page.title %}
-		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li>
-		{% endif %}{% endfor %}
+		{% for page in site.pages %}{% if page.title %}{% if page.path != "index.md" %}
+		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		{% endif %}{% endif %}{% endfor %}
 		<li><a href="{{ site.repo }}">GitHub</a></li>
 
 	</ul>
