@@ -86,4 +86,4 @@ jobs:
       - run: *build_jekyll
       - store_artifacts:
           path: ~/repo/_site
-          destination: blog
+          destination: top
