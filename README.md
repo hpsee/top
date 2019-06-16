@@ -39,6 +39,39 @@ This means that each record can have a maximum of three winners, and a section
 for each. For examples, see the files in the posts folder.
 
 
+### The Centers Map
+
+The top site includes a [map](https://hpsee.github.io/top/map/) of academic,
+national lab, and company centers. The data comes from [centers.yml](_data/centers.yml),
+where each entry corresponds to a cluster resource:
+
+```yaml
+-
+    name: 'Lawrence Berkeley National Laboratory'
+    id: lbnl-lawrencium
+    external_url: 'http://scs.lbl.gov/'
+    resource_name: Lawrencium
+    size_nodes: ""
+    size_cores: '30,000'
+    purpose: 'General institution HPC resource'
+    notes: ""
+    coords: [37.876036, -122.250078]
+```
+
+If you want to add a new record, we suggest that you first ensure that
+the center or resource is included in this data. If you find it, you
+can provide a link that opens up on the map based on the center id. For
+example, to link to the entry above we would use "lbnl-lawrencium" and
+the link would open at `{{ site.baseurl }}/map/?q=lbnl-lawrencium`
+
+#### Adding a New Center
+
+The metadata is fairly straight forward, and minimally you should provide
+a unique id (all lowercase and not already used, this will be tested), an 
+external url, and coordinates for the map. And of course, if you see any 
+issue with current metadata, please open an issue or pull request to fix it.
+
+
 ### Can I contribute a new record?
 
 Yes! Each record is a post under [_posts](_posts) and you can simply copy
