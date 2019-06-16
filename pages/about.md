@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-featured-image: images/pic13.jpg
 ---
 
 This is the site for Digital Records for High Performance Computing
