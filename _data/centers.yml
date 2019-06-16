@@ -69,15 +69,15 @@
     notes: ""
     coords: [41.956606, -70.709033]
 -
-    name: MIT
-    id: mit-openmind
-    external_url: ""
-    resource_name: openmind
+    name: The Massachusetts Green High Performance Computing Center (MGHPCC)
+    id: mit-mghpcc
+    external_url: "http://www.mghpcc.org/"
+    resource_name: mghpcc
     size_nodes: ""
     size_cores: '1,176'
-    purpose: Neuroscience
+    purpose: 
     notes: ""
-    coords: [42.360178, -71.094214]
+    coords: [42.202774, -72.608088]
 -
     name: 'National Institutes of Health HPC'
     id: nih-biowulf
@@ -241,7 +241,7 @@
 -
     name: 'Georgia State University'
     id: georgia-state-orion
-    external_url: 'https://researchsolutions.atlassian.net/wiki/display/PD/Orion'
+    external_url: 'https://ursa.research.gsu.edu/high-performance-computing/'
     resource_name: Orion
     size_nodes: ""
     size_cores: '362'
@@ -271,7 +271,7 @@
 -
     name: 'Rutgers University'
     id: rutgers-sirius
-    external_url: 'http://sirius.hpc.rutgers.edu'
+    external_url: 'https://oarc.rutgers.edu/resources/sirius-user-guide/'
     resource_name: sirius
     size_nodes: "1"
     size_cores: '32'
@@ -321,7 +321,7 @@
 -
     name: 'University of Arizona'
     id: arizona-ocelote
-    external_url: ""
+    external_url: "https://public.confluence.arizona.edu/display/UAHPC/Ocelote+Quick+Start"
     resource_name: Ocelote
     size_nodes: '350'
     size_cores: '10,000'
@@ -331,7 +331,7 @@
 -
     name: 'University of Arizona'
     id: arizona-elgate
-    external_url: ""
+    external_url: "https://elgato.arizona.edu/"
     resource_name: ElGato
     size_nodes: '146'
     size_cores: '2,300'
@@ -421,7 +421,7 @@
 -
     name: 'University of Leeds, UK'
     id: leeds-arc3
-    external_url: 'http://arc.leeds.ac.uk/'
+    external_url: 'https://arc.leeds.ac.uk/systems/arc3'
     resource_name: arc3
     size_nodes: ""
     size_cores: '4,056'
@@ -431,7 +431,7 @@
 -
     name: 'University of Leeds, UK'
     id: leeds-arc0
-    external_url: 'http://arc.leeds.ac.uk/'
+    external_url: 'https://arc.leeds.ac.uk/'
     resource_name: arc0
     size_nodes: ""
     size_cores: ""
@@ -441,7 +441,7 @@
 -
     name: 'Novartis Institute for Biomedical Research'
     id: novartis
-    external_url: ""
+    external_url: "https://www.novartis.com/our-science/novartis-institutes-biomedical-research"
     resource_name: ""
     size_nodes: ""
     size_cores: ""
@@ -631,7 +631,7 @@
 -
     name: 'Haxbylab/ PBS / Dartmouth college'
     id: dartmouth-haxbylab-hydra
-    external_url: ""
+    external_url: "http://haxbylab.dartmouth.edu/index.html"
     resource_name: hydra
     size_nodes: '8'
     size_cores: '128'
@@ -651,7 +651,7 @@
 -
     name: Nipissing University Computing Laboratory (NCPL)
     id: ncpl
-    external_url: ""
+    external_url: "https://www.nipissingu.ca/research/rfcl"
     resource_name: ""
     size_nodes: '20'
     size_cores: ""
@@ -661,7 +661,7 @@
 -
     name: 'UT Southwestern BioHPC'
     id: ut-southwestern-nucleus
-    external_url: 'https://biohpc.swmed.edu'
+    external_url: 'https://portal.biohpc.swmed.edu/content/'
     resource_name: Nucleus
     size_nodes: '148'
     size_cores: ""
@@ -758,16 +758,6 @@
     purpose: Multi-disiplinary
     notes: ''
     coords: [-33.957594, 18.461226]
--
-    name: RIIM
-    id: riim
-    external_url: "https://www.linkedin.com/company/riim/about/"
-    resource_name: ""
-    size_nodes: '3'
-    size_cores: '2'
-    purpose: Learning
-    notes: ""
-    coords: [33.613084, -111.917480]
 -
     name: 'University of Utah'
     id: utah-kingspeak
@@ -921,7 +911,7 @@
 -
     name: 'Centrale Nantes SuperComputing, France'
     id: nantes-liger
-    external_url: 'https://supercomputing.ec-nantes.fr'
+    external_url: 'https://www.ec-nantes.fr/research-facilities/supercomputer/centrale-nantes-supercomputer-one-of-the-most-powerful-in-france-200597.kjsp'
     resource_name: Liger
     size_nodes: '266'
     size_cores: '6384'
@@ -931,7 +921,7 @@
 -
     name: 'ETH Zürich'
     id: eth-leonhard
-    external_url: 'https://www.ethz.ch'
+    external_url: 'https://www.ethz.ch/de.html'
     resource_name: Leonhard
     size_nodes: '40'
     size_cores: ""

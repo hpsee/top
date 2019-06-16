@@ -67,7 +67,7 @@ the link would open at `{{ site.baseurl }}/map/?q=lbnl-lawrencium`
 #### Adding a New Center
 
 The metadata is fairly straight forward, and minimally you should provide
-a unique id (all lowercase and not already used, this will be tested), an 
+a unique id (all lowercase and not already used, this is tested), an 
 external url, and coordinates for the map. And of course, if you see any 
 issue with current metadata, please open an issue or pull request to fix it.
 
