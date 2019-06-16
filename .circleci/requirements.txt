@@ -1,0 +1,4 @@
+python-frontmatter>=0.4.2
+feedparser>=5.2.1
+pyaml>=17.12.1
+pytest
