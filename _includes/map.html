@@ -33,7 +33,8 @@ var map = L.map('map-container', {
 var query = getQueryVariable("q") || ""
 
 // First add groups (so they are base layer on map)
-{% for entry in site.data.centers %}{% if entry.coords.size == 2 %}
+{% assign centers = site.data.centers | sort: 'name' %}
+{% for entry in centers %}{% if entry.coords.size == 2 %}
 var marker = L.marker([{{ entry.coords[0] }}, {{ entry.coords[1] }}], {icon: cssIcon});
 
 // If the user is searching for the id, open the popup

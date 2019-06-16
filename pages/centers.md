@@ -7,6 +7,7 @@ permalink: /centers/
 
 <table id="t01">
   <tr>
+    <th></th>
     <th>Name</th>
     <th>Resource</th> 
     <th>Purpose</th>
@@ -14,6 +15,7 @@ permalink: /centers/
     <th>Metrics</th>
   </tr>
 {% for entry in site.data.centers %}<tr>
+    <td>{{ forloop.index }}.</td>
     <td>{{ entry.name }}</td>
     <td><a href='{{ entry.external_url }}'>{{ entry.resource_name }}</a></td> 
     <td>{{ entry.purpose }}</td>

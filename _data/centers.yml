@@ -832,7 +832,7 @@
     name: 'New York University'
     id: nyu-cluster
     external_url: 'https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU'
-    resource_name: ""
+    resource_name: "NYU Cluster"
     size_nodes: '225'
     size_cores: '5932'
     purpose: 'General HPC resources for NYU researchers'
@@ -862,60 +862,60 @@
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-stratus
     external_url: 'https://www.nsc.liu.se/systems/stratus/'
-    resource_name: 
+    resource_name: "Stratus" 
     size_nodes: ''
     size_cores: '16640'
-    purpose: ''
-    notes: "Used for weather forecasting"
+    purpose: 'Used for weather forecasting'
+    notes: ""
     coords: [58.397786, 15.575943]
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-frost
     external_url: 'https://www.nsc.liu.se/systems/frost/'
-    resource_name: 
+    resource_name: "Frost"
     size_nodes: ''
     size_cores: '5984'
-    purpose: ''
-    notes: "Used for weather forecasting"
+    purpose: 'Used for weather forecasting'
+    notes: ""
     coords: [58.397786, 15.575943]
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-sigma
     external_url: 'https://www.nsc.liu.se/systems/sigma/'
-    resource_name: 
+    resource_name: "Sigma"
     size_nodes: ''
     size_cores: '3456'
-    purpose: ''
-    notes: "General research cluster"
+    purpose: 'General research cluster'
+    notes: ""
     coords: [58.397786, 15.575943]
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-nebula
     external_url: 'https://www.nsc.liu.se/systems/nebula/'
-    resource_name: 
+    resource_name: "Nebula"
     size_nodes: ''
     size_cores: '3328'
-    purpose: ''
-    notes: "Used for weather forecasting"
+    purpose: 'used for weather forecasting'
+    notes: ""
     coords: [58.397786, 15.575943]
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-cirrus
     external_url: 'https://www.nsc.liu.se/systems/cirrus/'
-    resource_name: 
+    resource_name: Cirrus
     size_nodes: ''
     size_cores: '8192'
-    purpose: ''
+    purpose: "Used for weather forecasting"
     notes: ""
     coords: [58.397786, 15.575943]
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-bi
     external_url: 'https://www.nsc.liu.se/systems/bi/'
-    resource_name: 
+    resource_name:  Bi
     size_nodes: ''
     size_cores: '4272'
-    purpose: ''
+    purpose: 'General research cluster'
     notes: "Created between 2014 and 2016, Bi has LINPACK performance of approximately 136 Teraflops/second using all 4,272 cores."
     coords: [58.397786, 15.575943]
 -
