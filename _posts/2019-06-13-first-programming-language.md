@@ -17,3 +17,5 @@ the residents of New Hampshire can now celebrate the creation of BASIC via a new
 markerm, a sign alongside the highway into Concord, NH.
 
 ![{{ site.baseurl }}/assets/images/records/dartmouth-first-language.jpg]({{ site.baseurl }}/assets/images/records/dartmouth-first-language.jpg)
+
+See [Dartmouth on the map](({{ site.baseurl }}/map/?q=dartmouth-discovery))

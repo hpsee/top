@@ -1,0 +1,1060 @@
+-
+    name: CSIRO
+    id: csiro-bragg-gpu
+    external_url: 'http://www.csiro.au/'
+    resource_name: bragg-gpu
+    size_nodes: ""
+    size_cores: '2,048'
+    purpose: 'broad base scientific'
+    notes: 'Improved GPU based library support for R users'
+    coords: [-33.895236, 151.197018]
+-
+    name: 'GSI Helmholtz Center for Heavy Ion Research'
+    id: gsi-greencube
+    external_url: 'https://www.gsi.de/en/start/news/details/2016/01/22/new-energy-efficient-high-performance-computing-center-for-gsi-and-fair-green-it-cube-opens.htm'
+    resource_name: Greencube
+    size_nodes: ""
+    size_cores: '300,000'
+    purpose: 'Heavy Ion Physics'
+    notes: ""
+    coords: [49.931570, 8.679361]
+-
+    name: 'Holland Computing Center at the University of Nebraska'
+    id: holland-crane-tusker
+    external_url: 'https://hcc.unl.edu'
+    resource_name: 'Crane and Tusker (collaboration with LHC)'
+    size_nodes: ""
+    size_cores: '14,000'
+    purpose: 'General purpose campus cluster'
+    notes: ""
+    coords: [40.819678, -96.705704]
+-
+    name: HPC-UGent
+    id: hpc-ugent
+    external_url: 'http://www.ugent.be/hpc/en/'
+    resource_name: golett
+    size_nodes: ""
+    size_cores: '2,500'
+    purpose: 'research across all scientific domains'
+    notes: ''
+    coords: [51.023434, 3.710077]
+-
+    name: 'Lawrence Berkeley National Laboratory'
+    id: lbnl-lawrencium
+    external_url: 'http://scs.lbl.gov/'
+    resource_name: Lawrencium
+    size_nodes: ""
+    size_cores: '30,000'
+    purpose: 'General institution HPC resource'
+    notes: ""
+    coords: [37.876036, -122.250078]
+-
+    name: Lunarc
+    id: lunarc-aurora
+    external_url: 'http://www.lunarc.lu.se'
+    resource_name: Aurora
+    size_nodes: ""
+    size_cores: '360'
+    purpose: 'Different research groups at Lund University'
+    notes: ""
+    coords: [55.711912, 13.203514]
+-
+    name: Microway
+    id: microway
+    external_url: 'http://microway.com'
+    resource_name: 'Microway Research Cluster'
+    size_nodes: ""
+    size_cores: '192'
+    purpose: 'Benchmarking scientific, research and engineering codes on the latest hardware architectures'
+    notes: ""
+    coords: [41.956606, -70.709033]
+-
+    name: MIT
+    id: mit-openmind
+    external_url: ""
+    resource_name: openmind
+    size_nodes: ""
+    size_cores: '1,176'
+    purpose: Neuroscience
+    notes: ""
+    coords: [42.360178, -71.094214]
+-
+    name: 'National Institutes of Health HPC'
+    id: nih-biowulf
+    external_url: 'https://hpc.nih.gov/'
+    resource_name: Biowulf
+    size_nodes: '3,100'
+    size_cores: '60,000'
+    purpose: 'General purpose biomedical research'
+    notes: ''
+    coords: [39.002986, -77.104481]
+-
+    name: 'Purdue University'
+    id: purdue-rice
+    external_url: 'https://www.rcac.purdue.edu/compute/rice/'
+    resource_name: Rice
+    size_nodes: ""
+    size_cores: '11,520'
+    purpose: 'Campus HPC resource'
+    notes: ""
+    coords: [40.423640, -86.921173]
+-
+    name: 'Purdue University'
+    id: purdue-conte
+    external_url: 'https://www.rcac.purdue.edu/compute/conte/'
+    resource_name: Conte
+    size_nodes: ""
+    size_cores: '78,880'
+    purpose: 'Campus HPC resource'
+    notes: 'Purdue''s Intel Xeon Phi computer cluster.'
+    coords: [40.427934, -86.916766]
+-
+    name: 'Purdue University'
+    id: purdue-snyder
+    external_url: 'https://www.rcac.purdue.edu/compute/snyder/'
+    resource_name: Snyder
+    size_nodes: ""
+    size_cores: '2,220'
+    purpose: 'Campus HPC resource'
+    notes: 'Purdue''s large memory cluster'
+    coords: [40.429706, -86.913708]
+-
+    name: 'Purdue University'
+    id: purdue-hammer
+    external_url: 'https://www.rcac.purdue.edu/compute/hammer/'
+    resource_name: Hammer
+    size_nodes: ""
+    size_cores: '3,960'
+    purpose: 'Campus HPC resource'
+    notes: 'Purdue''s high throughput cluster'
+    coords: [40.431452, -86.913840]
+-
+    name: 'Purdue University'
+    id: purdue-carter
+    external_url: 'https://www.rcac.purdue.edu/compute/carter/'
+    resource_name: Carter
+    size_nodes: ""
+    size_cores: '10,560'
+    purpose: 'Campus HPC resource'
+    notes: ""
+    coords: [40.429868, -86.920631]
+-
+    name: 'R Systems NA, Inc.'
+    id: r-oak1
+    external_url: 'http://rsystemsinc.com'
+    resource_name: Oak1
+    size_nodes: ""
+    size_cores: '1,024'
+    purpose: 'Shared utility resource for commercial and academic clients'
+    notes: ''
+    coords: [40.092648, -88.248646]
+-
+    name: 'R Systems NA, Inc.'
+    id: r-oak2
+    external_url: 'http://rsystemsinc.com'
+    resource_name: Oak2
+    size_nodes: ""
+    size_cores: '2,048'
+    purpose: 'Shared utility resource for commercial and academic clients'
+    notes: ""
+    coords: [40.092320, -88.248850]
+-
+    name: 'R Systems NA, Inc.'
+    id: r-hou1
+    external_url: 'http://rsystemsinc.com'
+    resource_name: HOU1
+    size_nodes: ""
+    size_cores: '5,376'
+    purpose: 'Shared utility resource for commercial and acedmic clients'
+    notes: ""
+    coords: [40.092320, -88.248850]
+-
+    name: 'San Diego Supercomputer Center (SDSC)'
+    id: sdsc-gordon
+    external_url: 'https://www.sdsc.edu'
+    resource_name: Gordon
+    size_nodes: ""
+    size_cores: '16,384'
+    purpose: 'HPC cluster for XSEDE users'
+    notes: ""
+    coords: [32.884503, -117.239256]
+-
+    name: 'San Diego Supercomputer Center (SDSC)'
+    id: sdsc-comet
+    external_url: 'https://www.sdsc.edu'
+    resource_name: Comet
+    size_nodes: ""
+    size_cores: '47,776'
+    purpose: 'HPC Cluster for XSEDE users'
+    notes: ""
+    coords: [32.884336, -117.239749]
+-
+    name: 'Texas Advanced Computing Center'
+    id: tacc-stampede
+    external_url: 'https://portal.tacc.utexas.edu/user-guides/stampede'
+    resource_name: Stampede
+    size_nodes: ""
+    size_cores: '462,462'
+    purpose: 'As a key resource in the NSF advanced cyberinfrastructure, Stampede supports nearly all fields of research'
+    notes: ""
+    coords: [30.390124, -97.726166]
+-
+    name: 'UFIT Research Computing at the University of Florida'
+    id: ufit-hipergator
+    external_url: 'https://www.rc.ufl.edu'
+    resource_name: HiPerGator
+    size_nodes: ""
+    size_cores: '51,000'
+    purpose: 'All-purpose research computing cluster'
+    notes: ""
+    coords: [29.648237, -82.345478]
+-
+    name: 'Ulm University, Germany'
+    id: ulm-justus
+    external_url: 'https://www.uni-ulm.de/en/einrichtungen/kiz/service-catalogue/high-performance-computing/justus/justus0/'
+    resource_name: JUSTUS
+    size_nodes: '550'
+    size_cores: '8,800'
+    purpose: 'Computational Chemistry'
+    notes: ''
+    coords: [48.422401, 9.955528]
+-
+    name: 'University of Chicago'
+    id: uchicago-university-cluster
+    external_url: 'https://rcc.uchicago.edu/'
+    resource_name: midway.rcc.uchicago.edu
+    size_nodes: ""
+    size_cores: '24,196'
+    purpose: 'University cluster'
+    notes: ''
+    coords: [41.788744, -87.599100]
+-
+    name: 'University of Manitoba / Westgrid / ComputeCanada'
+    id: compute-canada-grex
+    external_url: 'https://www.westgrid.ca/support/systems/Grex'
+    resource_name: Grex
+    size_nodes: '320'
+    size_cores: '3,840'
+    purpose: 'General purpose HPC cluster'
+    notes: ""
+    coords: [49.807577, -97.136519]
+-
+    name: 'Georgia State University'
+    id: georgia-state-orion
+    external_url: 'https://researchsolutions.atlassian.net/wiki/display/PD/Orion'
+    resource_name: Orion
+    size_nodes: ""
+    size_cores: '362'
+    purpose: research
+    notes: ""
+    coords: [33.755257, -84.389121]
+-
+    name: University of North Florida (UNF)
+    id: unf-opus
+    external_url: "https://www.unf.edu/ccec/rts/opus_hpc.aspx"
+    resource_name: Opus
+    size_nodes: "16"
+    size_cores: ''
+    purpose: 'Compute cluster for UNF Taylor Engineering Research Institute'
+    notes: ""
+    coords: [30.266357, -81.507226]
+-
+    name: 'Genentech, Inc.'
+    id: genentech
+    external_url: 'http://www.gene.com'
+    resource_name: ""
+    size_nodes: ""
+    size_cores: ""
+    purpose: Research
+    notes: ""
+    coords: [37.656562, -122.377677]
+-
+    name: 'Rutgers University'
+    id: rutgers-sirius
+    external_url: 'http://sirius.hpc.rutgers.edu'
+    resource_name: sirius
+    size_nodes: "1"
+    size_cores: '32'
+    purpose: 'General-purpose scientific SMP machine'
+    notes: 'Used to get around a GLIBC version requirement for binary distribution of the NCI GDC download tool on CentOS 6'
+    coords: [40.560635, -74.457608]
+-
+    name: 'Stanford University'
+    id: stanford-sherlock
+    external_url: 'http://sherlock.stanford.edu'
+    resource_name: sherlock
+    size_nodes: ""
+    size_cores: '12,764'
+    purpose: 'compute for Stanford University researchers'
+    notes: ""
+    coords: [37.429091, -122.177370]
+-
+    name: 'Stanford University'
+    id: stanford-scg4
+    external_url: 'https://srcc.stanford.edu/scg-genomics-clusters'
+    resource_name: scg4
+    size_nodes: ""
+    size_cores: '3,920'
+    purpose: genomics
+    notes: ""
+    coords: [37.431348, -122.174602]
+-
+    name: 'McGill HPC Centre/Calcul Québec'
+    id: mcgill-guillimin
+    external_url: 'http://www.hpc.mcgill.ca'
+    resource_name: guillimin
+    size_nodes: '1,700'
+    size_cores: '22,300'
+    purpose: 'Compute Canada academic general purpose cluster'
+    notes: ''
+    coords: [45.504867, -73.577076]
+-
+    name: 'University of Wyoming Advanced Research Computing Center'
+    id: wyoming-teton
+    external_url: "https://arccwiki.uwyo.edu/index.php/HPC_system:_Teton"
+    resource_name: "Teton"
+    size_nodes: '501'
+    size_cores: ''
+    purpose: 'general purpose, condominium cluster providing service to all research interests on campus.'
+    notes: ""
+    coords: [41.313957, -105.584601]
+-
+    name: 'University of Arizona'
+    id: arizona-ocelote
+    external_url: ""
+    resource_name: Ocelote
+    size_nodes: '350'
+    size_cores: '10,000'
+    purpose: 'General Research'
+    notes: ""
+    coords: [32.231885, -110.950142]
+-
+    name: 'University of Arizona'
+    id: arizona-elgate
+    external_url: ""
+    resource_name: ElGato
+    size_nodes: '146'
+    size_cores: '2,300'
+    purpose: 'GPU cluster, primarily astronomy'
+    notes: 'First use case is machine learning'
+    coords: [32.232684, -110.953489]
+-
+    name: 'Washington University in St. Louis'
+    id: washington-st-louis
+    external_url: 'http://chpc.wustl.edu'
+    resource_name: ""
+    size_nodes: ""
+    size_cores: '2,000'
+    purpose: 'General purpose cluster'
+    notes: ''
+    coords: [38.648831, -90.310946]
+-
+    name: 'University of California, Berkeley'
+    id: ucal-berkeley
+    external_url: 'http://research-it.berkeley.edu/services/high-performance-computing'
+    resource_name: Savio
+    size_nodes: ""
+    size_cores: '7,820'
+    purpose: 'Institutional HPC for research'
+    notes: ""
+    coords: [37.872043, -122.258551]
+-
+    name: 'University of Connecticut'
+    id: uconn
+    external_url: 'http://hpc.uconn.edu'
+    resource_name: ""
+    size_nodes: '263'
+    size_cores: '6,248'
+    purpose: ""
+    notes: ""
+    coords: [41.830148, -72.254316]
+-
+    name: 'Cold Spring Harbor Laboratory'
+    id: cold-springs-blacknblue
+    external_url: 'http://cshl.edu'
+    resource_name: blacknblue
+    size_nodes: ""
+    size_cores: '3,328'
+    purpose: biology
+    notes: ""
+    coords: [40.858257, -73.466964]
+-
+    name: 'Unité de bioinformatique Structurale (Institut Pasteur)'
+    id: labcluster
+    external_url: 'https://research.pasteur.fr/en/team/structural-bioinformatics/'
+    resource_name: labcluster
+    size_nodes: '58'
+    size_cores: '1,000'
+    purpose: 'protein structure, cryoEM, NMR'
+    notes: ''
+    coords: [48.840539, 2.311592]
+-
+    name: 'University of Florida Research Computing'
+    id: florida-hipergator
+    external_url: 'https://www.rc.ufl.edu'
+    resource_name: HiPerGator
+    size_nodes: ""
+    size_cores: '51,000'
+    purpose: 'General research cluster'
+    notes: ""
+    coords: [29.646115, -82.354725]
+-
+    name: 'University of California San Francisco, UCSF Helen Diller Family Comprehensive Cancer Center'
+    id: ucsf-helen-diller-center
+    external_url: 'http://cbc.ucsf.edu/hpc'
+    resource_name: ""
+    size_nodes: '25'
+    size_cores: '1,024'
+    purpose: science
+    notes: ""
+    coords: [37.786332, -122.438959]
+-
+    name: 'The University of Leeds'
+    id: leeds-marc1
+    external_url: 'http://www.arc.leeds.ac.uk'
+    resource_name: MARC1
+    size_nodes: ""
+    size_cores: '1,236'
+    purpose: 'Bioinformatic, Systems Biology and Consumer data analytics'
+    notes: ""
+    coords: [53.806656, -1.555086]
+-
+    name: 'University of Leeds, UK'
+    id: leeds-arc3
+    external_url: 'http://arc.leeds.ac.uk/'
+    resource_name: arc3
+    size_nodes: ""
+    size_cores: '4,056'
+    purpose: 'General purpose'
+    notes: ""
+    coords: [53.806656, -1.555086]
+-
+    name: 'University of Leeds, UK'
+    id: leeds-arc0
+    external_url: 'http://arc.leeds.ac.uk/'
+    resource_name: arc0
+    size_nodes: ""
+    size_cores: ""
+    purpose: Development
+    notes: ""
+    coords: [53.806656, -1.555086]
+-
+    name: 'Novartis Institute for Biomedical Research'
+    id: novartis
+    external_url: ""
+    resource_name: ""
+    size_nodes: ""
+    size_cores: ""
+    purpose: 'Drug discovery'
+    notes: ""
+    coords: [37.836569, -122.288328]
+-
+    name: 'University of Michigan'
+    id: umich-cluster
+    external_url: 'http://arc-ts.umich.edu/'
+    resource_name: Cluster
+    size_nodes: '1,300'
+    size_cores: '20,000'
+    purpose: 'General purpose HPC for U Michigan'
+    notes: ''
+    coords: [42.278234, -83.737172]
+-
+    name: 'Indiana University'
+    id: indiana-karst
+    external_url: 'https://kb.iu.edu/d/bezu'
+    resource_name: Karst
+    size_nodes: '256'
+    size_cores: '4,096'
+    purpose: 'general purpose, high throughput '
+    notes: ""
+    coords: [39.175606, -86.512606]
+-
+    name: 'Indiana University'
+    id: indiana-bigred-ii
+    external_url: 'https://kb.iu.edu/d/bcqt'
+    resource_name: BigRedII-Cray-XE6-XK7
+    size_nodes: '1020'
+    size_cores: '21824'
+    purpose: 'high-performance parallel computing'
+    notes: ""
+    coords: [39.175606, -86.512606]
+-
+    name: "Boston Children's Hospital"
+    id: boston-childrens
+    external_url: 'http://www.crl.med.harvard.edu/'
+    resource_name: ""
+    size_nodes: '1'
+    size_cores: '12'
+    purpose: Neuroimaging
+    notes: ""
+    coords: [42.338205, -71.105152]
+-
+    name: 'South African National Bioinformatics Institute'
+    id: south-african-national-bioinformatics
+    external_url: 'http://www.sanbi.ac.za'
+    resource_name: ""
+    size_nodes: '8'
+    size_cores: '136'
+    purpose: Bioinformatics
+    notes: ''
+    coords: [-33.931393, 18.624710]
+-
+    name: 'The George Washington University'
+    id: gwu-colonialone
+    external_url: 'https://colonialone.gwu.edu/'
+    resource_name: colonialone
+    size_nodes: '232'
+    size_cores: '3704'
+    purpose: 'Diverse across multiple Faculties'
+    notes: ""
+    coords: [38.898930, -77.048932]
+-
+    name: 'Center for Genomic Regulation (CRG)'
+    id: center-genomic-regulation
+    external_url: 'http://www.crg.eu'
+    resource_name: ""
+    size_nodes: '150'
+    size_cores: '2720'
+    purpose: 'Genomic research'
+    notes: ""
+    coords: [41.385427, 2.194084]
+-
+    name: 'California Institute of Technology - High Energy Physics'
+    id: caltech-physics-t2-us
+    external_url: 'http://hep.caltech.edu/tier2/'
+    resource_name: T2_US_Caltech
+    size_nodes: '310'
+    size_cores: '7700'
+    purpose: 'LHC CMS Experiment, Open Science Grid'
+    notes: ""
+    coords: [34.135482, -118.126750]
+-
+    name: 'National Supercomputing Center IT4Innovations'
+    id: it4innovations-anselm
+    external_url: 'http://www.it4i.cz/'
+    resource_name: Anselm
+    size_nodes: '209'
+    size_cores: '3344'
+    purpose: 'General HPC cluster'
+    notes: ''
+    coords: [49.837735, 18.156400]
+-
+    name: 'National Supercomputing Center IT4Innovations'
+    id: it4innovations-salomon
+    external_url: 'http://www.it4i.cz/'
+    resource_name: Salomon
+    size_nodes: '1008'
+    size_cores: '24192'
+    purpose: 'General HPC cluster'
+    notes: ''
+    coords: [49.837735, 18.156400]
+-
+    name: 'University of Oslo'
+    id: oslo-abel
+    external_url: 'http://www.uio.no/english/services/it/research/hpc/abel/'
+    resource_name: Abel
+    size_nodes: '750'
+    size_cores: '11000'
+    purpose: 'primary used for smaller parallel applications with high IO and/or memory demand for the life sciences, astrophysics, geophysics, chemistry and also humanities'
+    notes: ''
+    coords: [59.939985, 10.721610]
+-
+    name: 'University of Oslo'
+    id: oslo-colossus
+    external_url: 'http://www.uio.no/english/services/it/research/hpc/colossus/index.html'
+    resource_name: Colossus
+    size_nodes: '75'
+    size_cores: '2150'
+    purpose: 'HPC for sensitive data'
+    notes: ''
+    coords: [59.939130, 10.721127]
+-
+    name: 'Tufts University'
+    id: tufts-jumbo
+    external_url: 'https://it.tufts.edu/hpc'
+    resource_name: Jumbo
+    size_nodes: '236'
+    size_cores: '4000'
+    purpose: 'General purpose campus level cluster.'
+    notes: ""
+    coords: [42.406028, -71.115885]
+-
+    name: 'MBB platform'
+    id: cluster-mbb
+    external_url: 'http://mbb.univ-montp2.fr'
+    resource_name: cluster-mbb
+    size_nodes: '40'
+    size_cores: '550'
+    purpose: bioinformatics
+    notes: ""
+    coords: [43.615734, 3.870717]
+-
+    name: 'Universidad del Valle'
+    id: valle-uchuva
+    external_url: 'http://lascilab.univalle.edu.co/'
+    resource_name: Uchuva
+    size_nodes: '16'
+    size_cores: '360'
+    purpose: Research
+    notes: ""
+    coords: [3.371619, -76.534939]
+-
+    name: 'Kimel Family Imaging-Genetics Lab'
+    id: kimel-clevis
+    external_url: 'http://www.camh.ca/en/research/research_areas/campbell-institute/ResearchImagingCentre/kimel_family_imaging_genetics_lab/Pages/default.aspx'
+    resource_name: Clevis
+    size_nodes: '20'
+    size_cores: '80'
+    purpose: 'MR Imaging Research'
+    notes: ""
+    coords: [43.643182, -79.417339]
+-
+    name: 'Penguin Computing On Demand'
+    id: penguin-pod
+    external_url: 'https://pod.penguincomputing.com/'
+    resource_name: POD
+    size_nodes: '576'
+    size_cores: '16128'
+    purpose: 'Public HPC on Demand Cloud'
+    notes: ""
+    coords: [37.491574, -121.955611]
+-
+    name: 'Army Research Laboratory'
+    id: army-cst
+    external_url: 'https://www.arl.army.mil/'
+    resource_name: CST
+    size_nodes: '8'
+    size_cores: '128'
+    purpose: 'Research TestBed'
+    notes: ''
+    coords: [39.030067, -76.963652]
+-
+    name: 'Haxbylab/ PBS / Dartmouth college'
+    id: dartmouth-haxbylab-hydra
+    external_url: ""
+    resource_name: hydra
+    size_nodes: '8'
+    size_cores: '128'
+    purpose: neuroimaging
+    notes: 'runs NeuroDebian'
+    coords: [43.705042, -72.288820]
+-
+    name: 'Dartmouth College'
+    id: dartmouth-discovery
+    external_url: 'http://rc.dartmouth.edu'
+    resource_name: Discovery
+    size_nodes: '168'
+    size_cores: '3200'
+    purpose: 'General purpose research cluster'
+    notes: ""
+    coords: [43.704553, -72.288627]
+-
+    name: Nipissing University Computing Laboratory (NCPL)
+    id: ncpl
+    external_url: ""
+    resource_name: ""
+    size_nodes: '20'
+    size_cores: ""
+    purpose: ""
+    notes: "North Bay, ON, Canada"
+    coords: [46.343143, -79.492538]
+-
+    name: 'UT Southwestern BioHPC'
+    id: ut-southwestern-nucleus
+    external_url: 'https://biohpc.swmed.edu'
+    resource_name: Nucleus
+    size_nodes: '148'
+    size_cores: ""
+    purpose: 'Biomedical Research'
+    notes: ""
+    coords: [32.819618, -96.841697]
+-
+    name: CESGA
+    id: cesga-finisterrae-ii
+    external_url: 'https://www.cesga.es/en/inicio'
+    resource_name: FinisTerrae-II
+    size_nodes: '320'
+    size_cores: '7712'
+    purpose: 'Supercomputing in different scientific areas'
+    notes: ""
+    coords: [42.876082, -8.553139]
+-
+    name: 'Oak Ridge Leadership Computing Facility'
+    id: oak-titan
+    external_url: 'https://www.olcf.ornl.gov'
+    resource_name: Titan
+    size_nodes: '18688'
+    size_cores: '299008'
+    purpose: 'DOE Leadership Computing'
+    notes: ""
+    coords: [35.931358, -84.310035]
+-
+    name: 'Yale University'
+    id: yale-farnam
+    external_url: 'http://research.computing.yale.edu/farnam'
+    resource_name: Farnam
+    size_nodes: '326'
+    size_cores: '5360'
+    purpose: 'life sciences'
+    notes: ''
+    coords: [41.316596, -72.921865]
+-
+    name: 'Yale University'
+    id: yale-ruddle
+    external_url: 'http://research.computing.yale.edu/ruddle'
+    resource_name: Ruddle
+    size_nodes: '171'
+    size_cores: '3600'
+    purpose: 'Bioinformatics / Genome Analysis'
+    notes: ''
+    coords: [41.317436, -72.922987]
+-
+    name: 'University of Sheffield'
+    id: sheffield-sharc
+    external_url: 'http://docs.hpc.shef.ac.uk/en/latest/sharc/index.html'
+    resource_name: ShARC
+    size_nodes: '140'
+    size_cores: '2300'
+    purpose: 'General use University cluster'
+    notes: ""
+    coords: [53.380845, -1.487990]
+-
+    name: SURFsara
+    id: surfsara-gina
+    external_url: 'http://docs.surfsaralabs.nl/projects/grid/en/latest/Pages/Service/system_specifications/gina_specs.html'
+    resource_name: Gina
+    size_nodes: '302'
+    size_cores: '6584'
+    purpose: 'General cluster'
+    notes: ""
+    coords: [52.089143, 5.113574]
+-
+    name: 'University of Franche-Comté, France'
+    id: france-comte-mesocomte
+    external_url: 'http://meso.univ-fcomte.fr'
+    resource_name: MesoComte
+    size_nodes: '144'
+    size_cores: '2048'
+    purpose: 'General purpose HPC cluster'
+    notes: ''
+    coords: [47.240592, 6.022473]
+-
+    name: 'Free University of Brussels'
+    id: brussels-hydra
+    external_url: 'https://cc.ulb.ac.be/hpc'
+    resource_name: Hydra
+    size_nodes: '130'
+    size_cores: '2636'
+    purpose: 'Whatever our researchers do!'
+    notes: ""
+    coords: [50.821719, 4.394918]
+-
+    name: 'University of Cape Town'
+    id: cape-town-hex
+    external_url: 'http://hpc.uct.ac.za'
+    resource_name: Hex
+    size_nodes: '30'
+    size_cores: '1400'
+    purpose: Multi-disiplinary
+    notes: ''
+    coords: [-33.957594, 18.461226]
+-
+    name: RIIM
+    id: riim
+    external_url: "https://www.linkedin.com/company/riim/about/"
+    resource_name: ""
+    size_nodes: '3'
+    size_cores: '2'
+    purpose: Learning
+    notes: ""
+    coords: [33.613084, -111.917480]
+-
+    name: 'University of Utah'
+    id: utah-kingspeak
+    external_url: 'http://www.chpc.utah.edu'
+    resource_name: kingspeak
+    size_nodes: '382'
+    size_cores: '7500'
+    purpose: 'General research computing'
+    notes: ''
+    coords: [40.764961, -111.842199]
+-
+    name: 'Case Western Reserve University'
+    id: case-western-reserve
+    external_url: 'https://sites.google.com/a/case.edu/hpcc/'
+    resource_name: "RIDER"
+    size_nodes: ''
+    size_cores: ''
+    purpose: 'Local Cluster'
+    notes: ''
+    coords: [41.504341, -81.608620]
+-
+    name: 'National Renewable Energy Lab'
+    id: nrel-tanager
+    external_url: 'http://hpc.nrel.gov'
+    resource_name: tanager
+    size_nodes: '8'
+    size_cores: '320'
+    purpose: 'computer vision and machine learning'
+    notes: ""
+    coords: [39.744152, -105.151380]
+-
+    name: 'New York Genome Center'
+    id: nygenome
+    external_url: 'https://www.nygenome.org'
+    resource_name: ""
+    size_nodes: '600'
+    size_cores: ""
+    purpose: ""
+    notes: ""
+    coords: [40.723500, -74.005111]
+-
+    name: 'Tartu Ülikool'
+    id: tartu-ulihool
+    external_url: 'http://hpc.ut.ee/'
+    resource_name: Rocket
+    size_nodes: '135'
+    size_cores: '2700'
+    purpose: 'University cluster'
+    notes: ""
+    coords: [58.381160, 26.720130]
+-
+    name: 'The Hong Kong University of Science & Technology'
+    id: hong-kong-hpc2
+    external_url: 'https://itsc.ust.hk/services/academic-teaching-support/high-performance-computing/hpc2-cluster'
+    resource_name: HPC2
+    size_nodes: '81'
+    size_cores: '1944'
+    purpose: 'Faculty Research'
+    notes: ''
+    coords: [22.336568, 114.265154]
+-
+    name: 'New York University'
+    id: nyu-cluster
+    external_url: 'https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU'
+    resource_name: ""
+    size_nodes: '225'
+    size_cores: '5932'
+    purpose: 'General HPC resources for NYU researchers'
+    notes: ""
+    coords: [40.729416, -73.996600]
+-
+    name: 'University of Houston/CACDS'
+    id: houston-opuntia
+    external_url: 'https://www.cacds.uh.edu/researchresources/hpc/opuntia/'
+    resource_name: Opuntia
+    size_nodes: '80'
+    size_cores: ""
+    purpose: ""
+    notes: ""
+    coords: [29.720023, -95.342373]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-tetralith
+    external_url: 'https://www.nsc.liu.se/systems/tetralith/'
+    resource_name: Tetralith
+    size_nodes: ''
+    size_cores: '60544'
+    purpose: 'General purpose HPC cluster'
+    notes: "Tetralith is the largest of NSC's cluster, taking over for the now retired  Triolith in 2018."
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-stratus
+    external_url: 'https://www.nsc.liu.se/systems/stratus/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '16640'
+    purpose: ''
+    notes: "Used for weather forecasting"
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-frost
+    external_url: 'https://www.nsc.liu.se/systems/frost/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '5984'
+    purpose: ''
+    notes: "Used for weather forecasting"
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-sigma
+    external_url: 'https://www.nsc.liu.se/systems/sigma/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '3456'
+    purpose: ''
+    notes: "General research cluster"
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-nebula
+    external_url: 'https://www.nsc.liu.se/systems/nebula/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '3328'
+    purpose: ''
+    notes: "Used for weather forecasting"
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-cirrus
+    external_url: 'https://www.nsc.liu.se/systems/cirrus/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '8192'
+    purpose: ''
+    notes: ""
+    coords: [58.397786, 15.575943]
+-
+    name: National Supercomputer Centre at Linköping University (NSC)
+    id: nsc-bi
+    external_url: 'https://www.nsc.liu.se/systems/bi/'
+    resource_name: 
+    size_nodes: ''
+    size_cores: '4272'
+    purpose: ''
+    notes: "Created between 2014 and 2016, Bi has LINPACK performance of approximately 136 Teraflops/second using all 4,272 cores."
+    coords: [58.397786, 15.575943]
+-
+    name: 'Centrale Nantes SuperComputing, France'
+    id: nantes-liger
+    external_url: 'https://supercomputing.ec-nantes.fr'
+    resource_name: Liger
+    size_nodes: '266'
+    size_cores: '6384'
+    purpose: 'Research in CFD, advanced numerical methods and simulation, biomechanics, deep-learning, offshore windmill and numerical engineering with industrial and academic partners'
+    notes: ""
+    coords: [47.248190, -1.549787]
+-
+    name: 'ETH Zürich'
+    id: eth-leonhard
+    external_url: 'https://www.ethz.ch'
+    resource_name: Leonhard
+    size_nodes: '40'
+    size_cores: ""
+    purpose: ""
+    notes: ""
+    coords: [47.376724, 8.547682]
+-
+    name: 'University of Tübingen'
+    id: tubingen-qbic
+    external_url: 'http://www.uni-tuebingen.de/'
+    resource_name: QBiC-CFC
+    size_nodes: '25'
+    size_cores: '484'
+    purpose: 'Quantitative Biology and Personalized Medicine'
+    notes: ""
+    coords: [48.529436, 9.043667]
+-
+    name: 'University of Tübingen'
+    id: tubingen-binac
+    external_url: 'http://www.zdv.uni-tuebingen.de/dienstleistungen/computing/hardware/binac.html'
+    resource_name: BinAC
+    size_nodes: '300'
+    size_cores: '8400'
+    purpose: 'Bioinformatics, Astrophysics'
+    notes: ''
+    coords: [48.529436, 9.043667]
+-
+    name: 'West Virginia University'
+    id: wvu-spruce
+    external_url: 'https://it.wvu.edu/research/research-computing'
+    resource_name: spruce.hpc.wvu.edu
+    size_nodes: '165'
+    size_cores: '3112'
+    purpose: 'General purpose shared HPC system'
+    notes: ""
+    coords: [39.636181, -79.956140]
+-
+    name: 'Institute for Astronomy, University of Edinburgh'
+    id: edinburgh-cuillin
+    external_url: 'http://www.roe.ac.uk/ifa'
+    resource_name: cuillin
+    size_nodes: '68'
+    size_cores: '1226'
+    purpose: 'Astronomy data processing and simulation'
+    notes: ''
+    coords: [55.923683, -3.187434]
+-
+    name: 'Queen Mary University of London (QMUL)'
+    id: qmul-apocrita
+    external_url: 'https://docs.hpc.qmul.ac.uk'
+    resource_name: Apocrita
+    size_nodes: '250'
+    size_cores: '5000'
+    purpose: 'Multi-disciplinary campus cluster'
+    notes: ''
+    coords: [51.524054, -0.040557]
+-
+    name: 'Stanford University'
+    id: stanford-xstream
+    external_url: 'http://xstream.stanford.edu/'
+    resource_name: XStream
+    size_nodes: '65'
+    size_cores: '1300'
+    purpose: 'Shared Stanford/XSEDE multiGPU cluster (16 GPUs / node, 1040 GPUs total)'
+    notes: 'http://xstream.stanford.edu/'
+    coords: [37.419877, -122.202706]
+-
+    name: 'Maryland Advanced Research Computing Center'
+    id: marcc-bluecrab
+    external_url: 'https://www.marcc.jhu.edu/'
+    resource_name: BlueCrab
+    size_nodes: '854'
+    size_cores: '21792'
+    purpose: 'General HPC Resource Used by Johns Hopkins and University of Maryland'
+    notes: ""
+    coords: [39.293520, -76.551245]
+-
+    name: 'University of Luxembourg'
+    id: luxembourg-iris
+    external_url: 'https://hpc.uni.lu'
+    resource_name: Iris
+    size_nodes: '108'
+    size_cores: '3024'
+    purpose: 'General purpose HPC resource'
+    notes: ""
+    coords: [49.504290, 5.948443]
+-
+    name: 'University of Luxembourg'
+    id: luxembourt-gaia
+    external_url: 'https://hpc.uni.lu'
+    resource_name: Gaia
+    size_nodes: '273'
+    size_cores: '3440'
+    purpose: 'General purpose HPC resource'
+    notes: ""
+    coords: [49.504290, 5.948443]
+-
+    name: 'University of Luxembourg'
+    id: luxembourt-chaos
+    external_url: 'https://hpc.uni.lu'
+    resource_name: Chaos
+    size_nodes: '81'
+    size_cores: '1120'
+    purpose: 'General purpose HPC resource'
+    notes: ""
+    coords: [49.504290, 5.948443]
+-
+    name: 'Imam Abdulrahman Bin Faisal University'
+    id: imam-bridge
+    external_url: 'https://doi.org/10.5281/zenodo.1117442'
+    resource_name: Bridge
+    size_nodes: '45'
+    size_cores: '360'
+    purpose: 'General scientific and medical research'
+    notes: ""
+    coords: [26.392218, 50.189473]
+-
+    name: 'Universität Bern'
+    id: bern-ubelix
+    external_url: 'https://docs.id.unibe.ch/ubelix'
+    resource_name: UBELIX
+    size_nodes: '336'
+    size_cores: '7320'
+    purpose: 'General-purpose research HPC'
+    notes: ''
+    coords: [46.950424, 7.438076]

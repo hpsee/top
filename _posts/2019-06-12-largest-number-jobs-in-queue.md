@@ -8,7 +8,7 @@ categories: record slurm largest
 ## Institution Record
 
 The Institution with the most number of jobs in the queue is currently held by
-Stanford University Research Computing, where on the Sherlock Cluster on June
+Stanford University Research Computing, where on the [Sherlock Cluster]({{ site.baseurl }}/map/?q=stanford-sherlock) on June
 10, 2019 there were over 28K jobs.
 
 ![{{ site.baseurl }}/assets/images/records/stanford-queue.png]({{ site.baseurl }}/assets/images/records/stanford-queue.png)
