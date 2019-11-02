@@ -841,7 +841,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-tetralith
-    external_url: 'https://www.nsc.liu.se/systems/tetralith/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: Tetralith
     size_nodes: ''
     size_cores: '60544'
@@ -851,7 +851,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-stratus
-    external_url: 'https://www.nsc.liu.se/systems/stratus/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: "Stratus" 
     size_nodes: ''
     size_cores: '16640'
@@ -861,7 +861,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-frost
-    external_url: 'https://www.nsc.liu.se/systems/frost/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: "Frost"
     size_nodes: ''
     size_cores: '5984'
@@ -871,7 +871,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-sigma
-    external_url: 'https://www.nsc.liu.se/systems/sigma/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: "Sigma"
     size_nodes: ''
     size_cores: '3456'
@@ -881,7 +881,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-nebula
-    external_url: 'https://www.nsc.liu.se/systems/nebula/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: "Nebula"
     size_nodes: ''
     size_cores: '3328'
@@ -891,7 +891,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-cirrus
-    external_url: 'https://www.nsc.liu.se/systems/cirrus/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name: Cirrus
     size_nodes: ''
     size_cores: '8192'
@@ -901,7 +901,7 @@
 -
     name: National Supercomputer Centre at Linköping University (NSC)
     id: nsc-bi
-    external_url: 'https://www.nsc.liu.se/systems/bi/'
+    external_url: 'https://liu.se/en/organisation/liu/nsc'
     resource_name:  Bi
     size_nodes: ''
     size_cores: '4272'
