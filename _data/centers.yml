@@ -951,7 +951,7 @@
 -
     name: 'West Virginia University'
     id: wvu-spruce
-    external_url: 'https://it.wvu.edu/research/research-computing'
+    external_url: 'https://research.wvu.edu/researchers/computational-research/hpc'
     resource_name: spruce.hpc.wvu.edu
     size_nodes: '165'
     size_cores: '3112'
