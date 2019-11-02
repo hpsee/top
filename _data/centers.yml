@@ -721,7 +721,7 @@
 -
     name: SURFsara
     id: surfsara-gina
-    external_url: 'http://docs.surfsaralabs.nl/projects/grid/en/latest/Pages/Service/system_specifications/gina_specs.html'
+    external_url: 'https://ganglia.surfsara.nl/?c=GINA%20Servers&m=load_one&r=hour&s=by%20name&hc=4&mc=2'
     resource_name: Gina
     size_nodes: '302'
     size_cores: '6584'
