@@ -43,7 +43,7 @@ def test_map():
         # Test that url is 200
         if not re.search(skips, entry['external_url']):
             response = requests.head(entry['external_url'])
-            assert response.status_code in [200, 300, 301, 302]
+            assert response.status_code in [200, 300, 301, 302, 406]
  
         # Image must exist
         if 'image' in entry:
